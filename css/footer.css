@@ -1,0 +1,15 @@
+footer {
+    width: 100%;
+    background-color: #222;
+    padding: 15px;
+
+    text-align: center;
+    justify-content: center;
+    font-family: Prompt;
+}
+
+footer {
+    color: #0bad62;
+    font-size: 0.8em;
+    font-weight: 500;
+}
